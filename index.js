@@ -96,7 +96,7 @@ inquirer
       type: "list",
       name: "license",
       message: "Choose one of the licenses",
-      choices: ["MIT", "APACHE-2.0", "AFL-3.0", "APL-1.0", "None"],
+      choices: ["MIT", "APACHE_2.0", "AFL-3.0", "APL-1.0", "None"],
     },
     {
       type: "input",
@@ -125,7 +125,7 @@ inquirer
     console.log("answers= ", answers);
     const readMeContent = createMD(answers);
 
-    fs.writeFile("README.md", readMeContent, (err) =>
+    fs.writeFile("MyREADME.md", readMeContent, (err) =>
       err ? console.log(err) : console.log("Success!")
     );
   });
