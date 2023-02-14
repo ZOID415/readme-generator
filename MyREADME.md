@@ -9,3 +9,8 @@ a
 
 * [Installation](#installation)
 
+* [Usage](#usage)
+
+* [License](#license)
+
+

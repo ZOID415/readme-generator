@@ -13,6 +13,10 @@ return "";
 // TODO: Create a function that returns the license link
 // If there is no license, return an empty string
 function renderLicenseLink(license) {
+if (license !== "None") {
+  return `\n* [License](#license)\n`;
+}
+return "";
 
 }
 
@@ -32,6 +36,9 @@ ${data.description}
 ## Table of Contents
 
 * [Installation](#installation)
+
+* [Usage](#usage)
+${renderLicenseLink(data.license)}
 
 `;
 }
