@@ -28,6 +28,11 @@ ${renderLicenseBadge(data.license)}
 ## Description
 
 ${data.description}
+
+## Table of Contents
+
+* [Installation](#installation)
+
 `;
 }
 
