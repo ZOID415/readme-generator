@@ -27,3 +27,12 @@ a
 ## Usage
 
 a
+
+## License
+
+This project is licensed under the MIT license.
+
+## Questions
+
+If you have any questions about this project or repositorie you may contact me at a. If you are interested you may visit my other work at [a](https://github.com/a/).
+
