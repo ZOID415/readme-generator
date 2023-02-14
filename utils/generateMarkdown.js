@@ -40,6 +40,11 @@ ${data.description}
 * [Usage](#usage)
 ${renderLicenseLink(data.license)}
 
+* [Questions](#questions)
+
+* [Tests](#tests)
+
+* [Contributing](#contributing)
 `;
 }
 
