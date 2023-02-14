@@ -72,6 +72,14 @@ If you have any questions about this project or repositorie you may contact me a
     data.github
   }](https://github.com/${data.github}/).
 
+## Tests
+
+${data.tests}
+
+## Contributing 
+
+${data.contributing}
+
 `;
 }
 
