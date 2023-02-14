@@ -45,6 +45,14 @@ ${renderLicenseLink(data.license)}
 * [Tests](#tests)
 
 * [Contributing](#contributing)
+
+## Installation
+
+${data.installation}
+
+## Usage
+
+${data.usage}
 `;
 }
 
