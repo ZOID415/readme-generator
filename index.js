@@ -110,7 +110,7 @@ inquirer
     },
     {
       type: "input",
-      name: "test",
+      name: "tests",
       message: "How to test this project?",
     },
     {

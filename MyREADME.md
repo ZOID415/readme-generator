@@ -1,17 +1,15 @@
-# a
-![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)
+# README Generator
+
 
 ## Description
 
-a
+This node application allows a user to quickly create a README.md file for a new project. It will include a title, sections entitled Description, Table of Contents, Installation, Usage, License, Contributing, Tests and Questions.
 
 ## Table of Contents
 
 * [Installation](#installation)
 
 * [Usage](#usage)
-
-* [License](#license)
 
 
 * [Questions](#questions)
@@ -22,25 +20,23 @@ a
 
 ## Installation
 
-a
+Before attempting to use this application the user must have VS Code, GitBash, and Node.js installed. Once those programs are installed the user can copy the GitHub repo and clone it with GitBash using the command "git clone 'paste link here'". Then us the command "npm init -y" to install the Node Package Manager. Then use the command "npm install inquirer to get npm inquirer package.
 
 ## Usage
 
-a
+Once software is downloaded and Node packages are initialized the user can then get started. Within the directory for this project, initialize prompts using the "node index.js" command in the terminal. Once prompted, answer the necessary information and a new README.md file will be placed in the directory selected.
 
-## License
 
-This project is licensed under the MIT license.
 
 ## Questions
 
-If you have any questions about this project or repositorie you may contact me at a. If you are interested you may visit my other work at [a](https://github.com/a/).
+If you have any questions about this project or repositorie you may contact me at michaelalfaro93@gmail.com. If you are interested you may visit my other work at [ZOID415](https://github.com/ZOID415/).
 
 ## Tests
 
-undefined
+Testing this project is as simple as following the instructions on how to use the project above.
 
 ## Contributing 
 
-a
+Michael Alfaro
 
